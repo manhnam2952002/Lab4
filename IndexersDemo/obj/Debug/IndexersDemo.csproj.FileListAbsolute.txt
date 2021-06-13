@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab4/IndexersDemo/bin/Debug/IndexersDemo.exe
+/Users/mac/RiderProjects/Lab4/IndexersDemo/bin/Debug/IndexersDemo.pdb
+/Users/mac/RiderProjects/Lab4/IndexersDemo/obj/Debug/IndexersDemo.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab4/IndexersDemo/obj/Debug/IndexersDemo.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab4/IndexersDemo/obj/Debug/IndexersDemo.exe
+/Users/mac/RiderProjects/Lab4/IndexersDemo/obj/Debug/IndexersDemo.pdb

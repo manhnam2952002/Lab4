@@ -1,0 +1,6 @@
+/Users/mac/RiderProjects/Lab4/Lab4/bin/Debug/Lab4.exe
+/Users/mac/RiderProjects/Lab4/Lab4/bin/Debug/Lab4.pdb
+/Users/mac/RiderProjects/Lab4/Lab4/obj/Debug/Lab4.csprojAssemblyReference.cache
+/Users/mac/RiderProjects/Lab4/Lab4/obj/Debug/Lab4.csproj.CoreCompileInputs.cache
+/Users/mac/RiderProjects/Lab4/Lab4/obj/Debug/Lab4.exe
+/Users/mac/RiderProjects/Lab4/Lab4/obj/Debug/Lab4.pdb
